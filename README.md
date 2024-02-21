@@ -1,4 +1,4 @@
-<h1><img src="./public/meow_party.gif"/>WEBSITE LIST OF MOVIES FROM THE MOVIE DB API USING REACT JS<img src="./public/meow_party.gif"/></h1>
+<h1 text-align="center"><img src="./public/meow_party.gif"/>WEBSITE LIST OF MOVIES FROM THE MOVIE DB API USING REACT JS<img src="./public/meow_party.gif"/></h1>
 
 # Getting Started with Create React App
 
